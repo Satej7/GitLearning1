@@ -1,4 +1,4 @@
 Hey
-Conflicting line by remote
+Conflict by remote
 Line added by develop
 Lets see now
